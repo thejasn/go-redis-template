@@ -1,7 +1,7 @@
 # go-redis-template
 
 ```
-Sample application.yaml
+## Sample application.yaml
 
 redis:
   cluster:
